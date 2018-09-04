@@ -1,0 +1,37 @@
+/* Two examples, where formatting are added directly on a html tag
+*/
+
+body {
+	background-color: #ADD8E6;
+	color: white;
+}
+img{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* The content div surround
+ * every thing in the body 
+ * The css make content smaller than the body itself
+ * and centret
+ kommentar
+ */
+#content {
+	width 80%;
+	margin: auto;
+}
+
+#text{
+	background-color: white;
+	
+}
+#list{
+background-color: blue;
+}
+
+/* width will be 100% of content */
+#button1{
+width 100%;
+}
+	
